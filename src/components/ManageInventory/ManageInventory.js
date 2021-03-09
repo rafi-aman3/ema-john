@@ -3,7 +3,7 @@ import React from 'react';
 const ManageInventory = () => {
     return (
         <div>
-            Developoer Is Currentl Tired
+            Developoer Is Currently Tired
         </div>
     );
 };
